@@ -10,7 +10,7 @@ Input:  [1,2,3,4]
 Output: [24,12,8,6]
 ```
 **Note:**  
-Please solve it <span style="border-bottom:2px dashed red;">**without division**</span> and in O(n).
+Please solve it <u>without division</u> and in O(n).
 ___________
 ## Thought
 Instead of division, we use **two arrays** to store the products of all left elements and all right elements by **i<sub>th</sub> nums[i]**.    
